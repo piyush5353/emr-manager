@@ -1,0 +1,9 @@
+front/dart_tool
+front/windows
+front/android
+front/web
+front/ios
+front/packages
+front/build
+front/pubspec.lock
+back/node_modules
